@@ -1,4 +1,4 @@
-sfdx force:org:create -f config/project-scratch-def.json -d 3 -s
+sfdx force:org:create -f config/project-scratch-def.json -d 30 -s
 sfdx shane:connectedapp:uniquify -a identity/main/default/connectedApps/ExternalIdentity.connectedApp-meta.xml -p solution2
 
 sfdx shane:analytics:dataset:upload -f data/ea/deliveries.csv -m data/ea/deliveries.json -n deliveries -a SharedApp --async
