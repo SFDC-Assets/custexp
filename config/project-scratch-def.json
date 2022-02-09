@@ -8,7 +8,8 @@
     "EinsteinAssistant",
     "SiteDotCom",
     "Sites",
-    "DevelopmentWave"
+    "DevelopmentWave",
+    "enableSetPasswordInApi"
   ],
   "settings": {
     "analyticsSettings": {
@@ -26,11 +27,6 @@
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
     }
   }
 }
