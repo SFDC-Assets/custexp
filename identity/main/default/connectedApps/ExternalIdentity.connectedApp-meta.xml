@@ -2,17 +2,17 @@
 <ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
     <contactEmail>shane.mclaughlin@salesforce.com</contactEmail>
     <contactPhone>8324728021</contactPhone>
+    <ipRanges>
+        <end>255.255.255.255</end>
+        <start>0.0.0.0</start>
+    </ipRanges>
     <label>ExternalIdentity</label>
     <oauthConfig>
         <callbackUrl>http://localhost:3030/token</callbackUrl>
-        <consumerKey>solution2x1644357141116</consumerKey>
-        <consumerSecret>12345678abcdefg12345678abcdefg12345678</consumerSecret>
+        <consumerKey>solution2x1646349458519</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
         <scopes>Basic</scopes>
         <scopes>Api</scopes>
         <scopes>Web</scopes>
     </oauthConfig>
-    <ipRanges>
-        <endAddress>255.255.255.255</endAddress>
-        <startAddress>0.0.0.0</startAddress>
-    </ipRanges>
 </ConnectedApp>

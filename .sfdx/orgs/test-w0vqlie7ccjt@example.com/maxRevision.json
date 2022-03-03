@@ -1,0 +1,23 @@
+{
+  "serverMaxRevisionCounter": 27,
+  "sourceMembers": {
+    "WaveDataset__deliveries": {
+      "serverRevisionCounter": 11,
+      "lastRetrievedFromServer": null,
+      "memberType": "WaveDataset",
+      "isNameObsolete": false
+    },
+    "WaveDataset__testdrives": {
+      "serverRevisionCounter": 19,
+      "lastRetrievedFromServer": null,
+      "memberType": "WaveDataset",
+      "isNameObsolete": false
+    },
+    "WaveDataset__csat": {
+      "serverRevisionCounter": 27,
+      "lastRetrievedFromServer": null,
+      "memberType": "WaveDataset",
+      "isNameObsolete": false
+    }
+  }
+}

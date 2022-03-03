@@ -5,4 +5,5 @@
     <providerType>Facebook</providerType>
     <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
     <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
 </AuthProvider>
